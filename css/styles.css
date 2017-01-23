@@ -1,0 +1,22 @@
+.thumbnails {
+	float: left;
+	width: 50%;
+}
+
+.login {
+	float: left;
+	width: 50%;
+}
+
+.clearfix {
+	clear: both;
+}
+
+.links ul {
+	list-style: none;
+}
+
+.links ul li {
+	float: left;
+	margin: 5px;
+}
