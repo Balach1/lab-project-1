@@ -1,0 +1,90 @@
+html,
+body {
+	height: 100%;
+	background-color: #fafafa;
+	 resize: both;
+    overflow: auto;
+    position: relative;
+}
+
+main {
+	min-height: 100%;
+	max-width: 75%;
+    margin: 0px 15%;
+	
+}
+
+footer {
+	max-width: 75%;
+	margin: auto auto;
+	margin-top: -5%;
+	padding: 0;
+    bottom:0;
+    height:60px;
+    position: relative;
+
+}
+
+.thumbnails {
+	float: left;
+	width: 50%;
+    background-image: url(https://instagramstatic-a.akamaihd.net/h1/images/homepage/home-phones.png/38825c9d5aa2.png);
+    margin-left: -35px;
+    margin-right
+    
+
+}
+
+
+.login {
+
+	float: left;
+	width: 21%;
+    background-color: #fff;
+    border: 1px solid #e6e6e6;
+    border-radius: 1px;
+    margin: 27px 7%;
+    padding: 93px 81px;
+}
+.login img {
+	width: 140px;
+
+}
+#google{
+	width: 120px;
+	}
+
+.login h1 {
+	/* Hide text */
+	text-indent: 100%;
+    white-space: nowrap;
+    overflow: hidden;
+
+	/* Show logo */
+	background-image: url(http://instagramstatic-a.akamaihd.net/h1/sprites/core/e05e5e.png);
+    background-position: 0 0;
+    height: 51px;
+    width: 175px;
+}
+
+
+.clearfix {
+	clear: both;
+}
+
+.links p {
+	line-height: 1em;
+}
+
+.links ul {
+	list-style: none;
+}
+
+.links ul li {
+	float: left;
+	margin: 5px;
+}
+
+.links p {
+	float: right;
+}
